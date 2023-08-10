@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp2</string>
+    <string name="login" />
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="registrer">registrer</string>
+    <string name="inicia_sesion">Inicia sesion</string>
+    <string name="registrate_ahora">registrate-ahora</string>
+    <string name="logout">Logout</string>
+</resources>
